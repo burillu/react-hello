@@ -1,3 +1,19 @@
+# hello-react
+
+## Descrizione
+Primo Hello World con React js.
+
+1. cambiare titolo alla pagina;
+2. nel file App.js cambiare il contenuto del div app personalizzando con un saluto.
+3. crea il tuo primo componente inserendo la data di oggi.
+
+### Bonus
+
+Crea tre componenti in tre diversi modi, come hai imparato già.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +84,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
